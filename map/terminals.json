@@ -1,0 +1,339 @@
+{
+	"set" : "Terminais de Ônibus",
+	"terminals" : [
+	{
+		"set_index" : 27,
+		"terminal_name" : "Jardim Britânia",
+		"area_id" : 1,
+		"yt_index" : "8XaCCS4Z-w4",
+		"yt_date" : "2018-12-16",
+		"x" : -46.787065,
+		"y" : -23.432013
+	},
+	{
+		"set_index" : 2,
+		"terminal_name" : "Pirituba",
+		"area_id" : 1,
+		"yt_index" : "jMSBM2rmNHs",
+		"yt_date" : "2017-01-15",
+		"x" : -46.72637,
+		"y" : -23.48625
+	},
+	{
+		"set_index" : 24,
+		"terminal_name" : "Casa Verde",
+		"area_id" : 2,
+		"yt_index" : "iQYjuso9rMs",
+		"yt_date" : "2018-07-14",
+		"x" : -46.66257,
+		"y" : -23.49617
+	},
+	{
+		"set_index" : 19,
+		"terminal_name" : "Vila Nova Cachoeirinha",
+		"area_id" : 2,
+		"yt_index" : "EyBPG8XGZa4",
+		"yt_date" : "2017-05-27",
+		"x" : -46.67022,
+		"y" : -23.47518
+	},
+	{
+		"set_index" : 4,
+		"terminal_name" : "A. E. Carvalho",
+		"area_id" : 3,
+		"yt_index" : "lZ1_EZlL4cg",
+		"yt_date" : "2017-01-25",
+		"x" : -46.47582,
+		"y" : -23.51773
+	},
+	{
+		"set_index" : 23,
+		"terminal_name" : "Aricanduva",
+		"area_id" : 3,
+		"yt_index" : "1vAvmQd3dgE",
+		"yt_date" : "2018-03-11",
+		"x" : -46.55465,
+		"y" : -23.52849
+	},
+	{
+		"set_index" : 12,
+		"terminal_name" : "Penha",
+		"area_id": 3,
+		"yt_index" : "cjgOsQCpwXQ",
+		"yt_date" : "2017-03-04",
+		"x" : -46.54667,
+		"y" : -23.51908
+	},
+	{
+		"set_index" : 22,
+		"terminal_name" : "São Miguel",
+		"area_id": 3,
+		"yt_index" : "fUbxU0F8wTQ",
+		"yt_date" : "2018-02-11",
+		"x" : -46.43478,
+		"y" : -23.49168
+	},
+	{
+		"set_index" : 25,
+		"terminal_name" : "Cidade Tiradentes",
+		"area_id" : 4,
+		"yt_index" : [
+			"rhFJ4AeLZNQ",
+			"WBv9m9-dvi8"
+		],
+		"yt_date" : "2018-10-06",
+		"x" : -46.408030,
+		"y" : -23.583413
+	},
+	{
+		"set_index" : false,
+		"terminal_name" : "Itaquera II",
+		"area_id" : 4,
+		"yt_index" : "6P1dPMtmK7g",
+		"yt_date" : "2021-02-06",
+		"x" : -46.471169,
+		"y" : -23.542010
+	},
+	{
+		"set_index" : 5,
+		"terminal_name" : "Vila Carrão",
+		"area_id" : 4,
+		"yt_index" : "U7IzfSZO2ew",
+		"yt_date" : "2017-01-29",
+		"x" : -46.522770,
+		"y" : -23.558409
+	},
+	{
+		"set_index" : 8,
+		"terminal_name" : "São Mateus",
+		"area_id": 5,
+		"yt_index" : [
+			"pmreGeJrlKQ",
+			"DR1mAQ10F6k"
+		],
+		"yt_date" : "2017-02-10",
+		"x" : -46.476349,
+		"y" : -23.613391
+	},
+	{
+		"set_index" : 11,
+		"terminal_name" : "Sacomã",
+		"area_id": 5,
+		"yt_index" : [
+			"ZUG7zEKUYhA",
+			"OerQ-AWyXTM"
+		],
+		"yt_date" : "2017-02-28",
+		"x" : -46.602679,
+		"y" : -23.603068
+	},
+	{
+		"set_index" : 10,
+		"terminal_name" : "Sapopemba/Teotônio Vilela",
+		"area_id": 5,
+		"yt_index" : "ditGzgDvVeQ",
+		"yt_date" : "2017-02-18",
+		"x" : -46.500908,
+		"y" : -23.614059
+	},
+	{
+		"set_index" : 20,
+		"terminal_name" : "Grajaú",
+		"area_id" : 6,
+		"yt_index" : [
+			"i2j0I9rEnMo",
+			"NnN4Kg_wfy4"
+		],
+		"yt_date" : "2017-12-09",
+		"x" : -46.697176,
+		"y" : -23.737127
+	},
+	{
+		"set_index" : 1,
+		"terminal_name" : "Parelheiros",
+		"area_id" : 6,
+		"yt_index" : [
+			"iTObjOS26lM",
+			"qBXWSfYYIrg"
+		],
+		"yt_date" : "2017-01-11",
+		"x" : -46.727022,
+		"y" : -23.828151
+	},
+	{
+		"set_index" : 28,
+		"terminal_name" : "Varginha",
+	  	"area_id" : 6,
+	  	"yt_index" : [
+	  		"HoO5EkyzU90",
+	  		"XHs31eBGgIA"
+	  	],
+	  	"yt_date" : "2018-12-29",
+	  	"x" : -46.716383,
+	  	"y" : -23.767080
+	},
+	{
+		"set_index" : false,
+		"terminal_name" : "Água Espraiada",
+		"area_id" : 7,
+		"yt_index" : [
+			"L9w_tInPWuI",
+			"XBmS2svBHaM"
+		],
+		"yt_date" : "2017-08-04",
+		"x" : -46.695486,
+		"y" : -23.613621
+	},
+	{
+		"set_index" : 9,
+		"terminal_name" : "Capelinha",
+		"area_id" : 7,
+		"yt_index" : [
+			"Vc521GDXpVo",
+			"OdpZZKbHBhA"
+		],
+		"yt_date" : "2017-02-14",
+		"x" : -46.762233,
+		"y" : -23.654296
+	},
+	{
+		"set_index" : 13,
+		"terminal_name" : "Guarapiranga",
+		"area_id" : 7,
+		"yt_index" : "TP6kykG2lPQ",
+		"yt_date" : "2017-03-08",
+		"x" : -46.735396,
+		"y" : -23.668179
+	},
+	{
+		"set_index" : 17,
+		"terminal_name" : "Jardim Ângela",
+		"area_id" : 7,
+		"yt_index" : "ZBlwRElANNc",
+		"yt_date" : "2017-05-06",
+		"x" : -46.773991,
+		"y" : -23.690582
+	},
+	{
+		"set_index" : 15,
+		"terminal_name" : "João Dias",
+		"area_id" : 7,
+		"yt_index" : "sjboaQGbQCU",
+		"yt_date" : "2017-03-16",
+		"x" : -46.733915,
+		"y" : -23.643699
+	},
+	{
+		"set_index" : 26,
+		"terminal_name" : "Santo Amaro",
+		"area_id" : 7,
+		"yt_index" : [
+			"p5l1_FuTz1I",
+			"-ZiM1m-JW2g",
+			"bYyqmriSZAQ"
+		],
+		"yt_date" : "2018-11-17",
+		"x" : -46.711486,
+		"y" : -23.654245
+	},
+	{
+		"set_index" : 21,
+		"terminal_name" : "Campo Limpo",
+		"area_id" : 8,
+		"yt_index" : [
+			"MiCQtZWxUT8",
+			"_3rY6TRlEnY"
+		],
+		"yt_date" : "2018-01-18",
+		"x" : -46.772895,
+		"y" : -23.631103
+	},
+	{
+		"set_index" : 29,
+		"terminal_name" : "Amaral Gurgel",
+		"area_id" : 9,
+		"yt_index" : [
+			"0HU4rqqAxI4",
+			"IdFnrxj71jc"
+		],
+		"yt_date" : "2019-01-15",
+		"x" : -46.648410,
+		"y" : -23.539143
+	},
+	{
+	    "set_index" : 3,
+	    "terminal_name" : "Bandeira",
+	    "area_id" : 9,
+	    "yt_index" : [
+	    	"Sx2E1ORwHLM",
+	    	"dbLu3kOgdxQ"
+	    ],
+	    "yt_date" : "2017-01-19",
+	    "x" : -46.639620,
+	    "y" : -23.549490
+	},	
+	{
+	    "set_index" : 6,
+	    "terminal_name" : "Lapa",
+	    "area_id" : 9,
+	    "yt_index" : [
+	    	"ZihdOC5Kipo",
+	    	"uAoDrzFsNFU"
+	    ],
+	    "yt_date" : "2017-02-02",
+	    "x" : -46.700101,
+	    "y" : -23.520080
+	},
+	{
+	    "set_index" : 14,
+	    "terminal_name" : "Mercado",
+	    "area_id" : 9,
+	    "yt_index" : "0AOIoPlnNzs",
+	    "yt_date" : "2017-03-12",
+	    "x" : -46.628927,
+	    "y" : -23.547267
+	},
+	{
+	    "set_index" : 7,
+	    "terminal_name" : "Parque Dom Pedro II",
+	    "area_id" : 9,
+	    "yt_index" : [
+	    	"WAcMS88XRyk",
+	    	"OaT_vELC5d8"
+	    ],
+	    "yt_date" : "2017-02-06",
+	    "x" : -46.630103,
+	    "y" : -23.546986
+	},
+	{
+	    "set_index" : 16,
+	    "terminal_name" : "Pinheiros",
+	    "area_id" : 9,
+	    "yt_index" : [
+	    	"7U81PG6eklc",
+	    	"ZjYAvWuqDCI"
+	    ],
+	    "yt_date" : "2017-04-15",
+	    "x" : -46.701829,
+	    "y" : -23.566389
+	},
+	{
+	    "set_index" : 18,
+	    "terminal_name" : "Princesa Isabel",
+	    "area_id" : 9,
+	    "yt_index" : "3JTnXnIGlbM",
+	    "yt_date" : "2017-05-21",
+	    "x" : -46.644712,
+	    "y" : -23.534336
+	},
+	{
+	    "set_index" : 30,
+	    "terminal_name" : "Vila Prudente",
+	    "area_id" : 9,
+	    "yt_index" : "tHURrGPfym8",
+	    "yt_date" : "2019-05-17",
+	    "x" : -46.583130,
+	    "y" : -23.584917
+	}
+	]
+}
