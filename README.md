@@ -1,6 +1,8 @@
-# Mapa-do-canal-Lucas-Sousa
-Este repositório é um projeto de mapeamento para o canal [Lucas Sousa](https://youtube.com/c/LucasSousacls/) através do Google My Maps.
-Lucas Sousa é um canal brasileiro no YouTube que se dedica a gravar em alta qualidade os mais diversos meios de transporte da cidade de São Paulo, Brasil e mundo.
+# CLS
+CLS é uma projeção cartográfica do canal [Lucas Sousa](https://youtube.com/c/LucasSousacls/) através do Google Maps (My Maps).
+Lucas Sousa é um canal brasileiro do YouTube que se dedica a gravar em alta qualidade os mais diversos meios de transporte da cidade de São Paulo, Brasil e mundo. Com uma enorme quantidade e variade de vídeos em seu canal, Lucas Sousa pode ser considerado um dos maiores canais de Mobilidade Urbana do brasil e do mundo. 
+
+Este repositório busca conciliar o conteúdo produzido pelo canal de forma precisa e mapeada, transmitindo quase todos os locais e caminhos registrados.
 
 Nas palavras de Lucas
 > Comecei em 2014, no caminho para casa avistei o trem do monotrilho da linha 15 - Prata passando ainda na fase de testes, resolvi gravar e postei aqui no canal, desde então venho postando e buscando sempre aprimorar a qualidade dos vídeos.
