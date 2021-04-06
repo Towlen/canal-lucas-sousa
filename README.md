@@ -7,16 +7,6 @@ Este repositório busca conciliar o conteúdo produzido pelo canal de forma prec
 Nas palavras de Lucas
 > Comecei em 2014, no caminho para casa avistei o trem do monotrilho da linha 15 - Prata passando ainda na fase de testes, resolvi gravar e postei aqui no canal, desde então venho postando e buscando sempre aprimorar a qualidade dos vídeos.
 
-# Principais séries
-##### Movimentação de Ônibus
-Série de vídeos mostrando os veículos e linhas de ônibus que circulam por diferentes pontos da cidade de São Paulo, Brasil e também exterior.
-##### Linhas de Ônibus
-Série de vídeos mostrando o percurso das linhas de ônibus.
-##### Eu Fui Conferir
-Série de vídeos com foco em trazer novidades e mudanças no meio de transporte.
-##### Terminais de Ônibus
-Série de vídeos mostrando todos os terminais de ônibus da SPTrans.
-
 Principais séries
 - [Movimentação de Ônibus](https://youtube.com/playlist?list=PLTiCW4_Az7iRK78uhYX_ah-x5R-kIm00u) - Série de vídeos mostrando os veículos e linhas de ônibus que circulam por diferentes pontos da cidade de São Paulo, Brasil e também exterior
 - [Linhas de Ônibus](https://youtube.com/playlist?list=PLTiCW4_Az7iSeYpUna63tF4tBq_xzTS5N) - Série de vídeos mostrando o percurso das linhas de ônibus
