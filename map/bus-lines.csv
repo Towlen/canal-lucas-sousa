@@ -1,32 +1,32 @@
-route_name,route_id,shape_id,route_direct,route_length,region,list_index,video_index,video_date
-Jd. Miriam - Pça. D. Gastão,516N-10,69085,2,36263.273,6,1,_zCa_0NMPcM,2017-12-16
-Term. Jd. Ângela - Term. Pinheiros,637A-10,54693,0,20753.146,7,2,07Oagowy-L4,2018-01-20
-Term. Grajaú - Metrô Brás,5630-10,73064,0,31170.967,6,3,aS6XzHa6Yqo,2018-01-23
-Vl. Arapuá - Term. Sacomã,5031-10,68206,1,5512.6729,5,4,JD1DXhah8D4,2018-01-23
-Jd. Miriam - Itaim Bibi,607C-10,71836,1,14957.333,6,5,foafwXbuD34,2018-01-30
-Jd. Walkiria - Metrô Belém,574W-10,56557,0,22376.949,5,6,2f3gE_FHbI0,2018-02-03
-Term. Sto. Amaro - Metrô Sta. Cruz,675L-10,64866,0,11482.194,7,7,dI2Kujicnf0,2018-02-06
-Term. São Mateus - Term. Pq. D. Pedro II,2290-10,69526,0,21339.977,4,8,P1NStLZSvfo,2018-02-10
-Mooca - Metrô Tatuapé,4726-10,63240,0,7912.3652,5,9,fdR4ouYfD8E,2018-02-24
-Cem. Do Horto - Shop. Center Norte,1016-10,72283,1,11075.427,2,10,MCFRBBASDrk,2018-03-03
-Vl. Nova Curuçá - Term. Pq. D. Pedro II,2582-10,70118,1,30891.479,3,11,C8MpdrFrrn0,2018-03-10
-Jd. Maria Luiza - Lgo. Da Pólvora,715M-10,55987,0,18151.43,8,12,3pDl4xEgLtc,2018-03-19
-Term. Sapopemba - Metrô Carrão,573T-10,70913,1,17543.51,5,13,GoBHLyhGgGI,2018-03-24
-Jd. Bonfiglioli - Metrô Belém,702C-10,63947,1,23834.078,8,14,4939Bs5c5h0,2018-03-31
-São Mateus - Term. Vl Prudente,4029-10,69352,0,14902.628,5,15,ezP-SYMKBnU,2018-04-29
-Jd. Guairacá - Metrô Tamanduateí,5025-10,61813,1,9539.7119,5,16,B_LLVdnU2pU,2018-05-06
-Pq. São Lucas - Metrô Tatuapé,524L-10,70080,1,14221.808,5,17,JPDjuZLs67g,2018-05-13
-Hosp. Heliópolis - Term. Sacomã,5020-10,58075_58074,4,5961.3178,5,18,v3DqjksRmPA,2018-05-27
-Lauzane Paulista - Hosp. Das Clínicas,178L-10,53424,0,17347.184,2,19,7YZsfcgKCOc,2018-07-20
-Diadema (Terminal Metropolitano de Diadema) / São Paulo (Jardim Guacuri),380,564156,2,9674,13,20,01ZmbvJQBx8,2018-07-26
-Term. Sto. Amaro - Term. Pinheiros,637P-10,72257,0,14523.941,7,21,ntAs3caxrb0,2018-08-10
-São Bernardo do Campo (Jardim Nazareth) / São Paulo (Terminal Sacomã),006,540351,0,18525,11,22,Djx9Vthkogw,2018-08-25
-Diadema (Terminal Metropolitano Piraporinha) / São Paulo (Santo Amaro),112,549316,1,22856,13,23,Jrkj1JXxdvw,2018-09-12
-Jd. Itápolis - Metrô Bresser,373T-10,69424,1,19703.383,5,24,CNNU80vhqdc,2018-10-13
-Cid. Universitária - Term. Pq. D. Pedro II,702U-10,70879,0,20829.908,8,27,xw06o2R_Uko,2019-02-11
-Vargem Grande - Term. Sto. Amaro,6091-10,71802,0,30913.023,6,28,dkQbBdN6Itw,2019-09-08
-Jd. Das Rosas - Metrô Tatuapé,3029-10,71047,1,13851.365,4,29,YMZchSfs7EM,2020-05-25
-Diadema (Terminal Metropolitano Diadema) / Sao Paulo (Brooklin),376,6731009090650112,0,13814,13,30,f4ueqNWeSIw,2020-06-28
-Jd. Miriam - Term. Princ. Isabel,509M-10,71820,0,23713.633,6,31,8JBLWhzLzR4,2020-09-09
-Santo André (Terminal Metropolitano Santo André Oeste) / Diadema (Terminal Metropolitano Diadema),287,537272,1,16403,10,32,Jci7hPegGok,2020-09-18
-Jd. Selma - Term. Água Espraiada,5106-21,71822,0,24914.723,6,33,JUkljA6lSXA,2021-04-01
+route_name,route_id,direction_id,route_length,region_id,list_index,video_index,video_date
+Jd. Miriam - Pça. D. Gastão,516N-10,2,36263.273,6,1,_zCa_0NMPcM,2017-12-16
+Term. Jd. Ângela - Term. Pinheiros,637A-10,1,20753.146,7,2,07Oagowy-L4,2018-01-20
+Term. Grajaú - Metrô Brás,5630-10,1,31170.967,6,3,aS6XzHa6Yqo,2018-01-23
+Vl. Arapuá - Term. Sacomã,5031-10,0,5512.6729,5,4,JD1DXhah8D4,2018-01-23
+Jd. Miriam - Itaim Bibi,607C-10,0,14957.333,6,5,foafwXbuD34,2018-01-30
+Jd. Walkiria - Metrô Belém,574W-10,1,22376.949,5,6,2f3gE_FHbI0,2018-02-03
+Term. Sto. Amaro - Metrô Sta. Cruz,675L-10,1,11482.194,7,7,dI2Kujicnf0,2018-02-06
+Term. São Mateus - Term. Pq. D. Pedro II,2290-10,1,21339.977,4,8,P1NStLZSvfo,2018-02-10
+Mooca - Metrô Tatuapé,4726-10,1,7912.3652,5,9,fdR4ouYfD8E,2018-02-24
+Cem. Do Horto - Shop. Center Norte,1016-10,0,11075.427,2,10,MCFRBBASDrk,2018-03-03
+Vl. Nova Curuçá - Term. Pq. D. Pedro II,2582-10,0,30891.479,3,11,C8MpdrFrrn0,2018-03-10
+Jd. Maria Luiza - Lgo. Da Pólvora,715M-10,1,18151.43,8,12,3pDl4xEgLtc,2018-03-19
+Term. Sapopemba - Metrô Carrão,573T-10,0,17543.51,5,13,GoBHLyhGgGI,2018-03-24
+Jd. Bonfiglioli - Metrô Belém,702C-10,0,23834.078,8,14,4939Bs5c5h0,2018-03-31
+São Mateus - Term. Vl Prudente,4029-10,1,14902.628,5,15,ezP-SYMKBnU,2018-04-29
+Jd. Guairacá - Metrô Tamanduateí,5025-10,0,9539.7119,5,16,B_LLVdnU2pU,2018-05-06
+Pq. São Lucas - Metrô Tatuapé,524L-10,0,14221.808,5,17,JPDjuZLs67g,2018-05-13
+Hosp. Heliópolis - Term. Sacomã,5020-10,4,5961.3178,5,18,v3DqjksRmPA,2018-05-27
+Lauzane Paulista - Hosp. Das Clínicas,178L-10,1,17347.184,2,19,7YZsfcgKCOc,2018-07-20
+Diadema (Terminal Metropolitano de Diadema) / São Paulo (Jardim Guacuri),380,2,9674,13,20,01ZmbvJQBx8,2018-07-26
+Term. Sto. Amaro - Term. Pinheiros,637P-10,1,14523.941,7,21,ntAs3caxrb0,2018-08-10
+São Bernardo do Campo (Jardim Nazareth) / São Paulo (Terminal Sacomã),006,1,18525,11,22,Djx9Vthkogw,2018-08-25
+Diadema (Terminal Metropolitano Piraporinha) / São Paulo (Santo Amaro),112,0,22856,13,23,Jrkj1JXxdvw,2018-09-12
+Jd. Itápolis - Metrô Bresser,373T-10,0,19703.383,5,24,CNNU80vhqdc,2018-10-13
+Cid. Universitária - Term. Pq. D. Pedro II,702U-10,1,20829.908,8,27,xw06o2R_Uko,2019-02-11
+Vargem Grande - Term. Sto. Amaro,6091-10,1,30913.023,6,28,dkQbBdN6Itw,2019-09-08
+Jd. Das Rosas - Metrô Tatuapé,3029-10,0,13851.365,4,29,YMZchSfs7EM,2020-05-25
+Diadema (Terminal Metropolitano Diadema) / Sao Paulo (Brooklin),376,1,13814,13,30,f4ueqNWeSIw,2020-06-28
+Jd. Miriam - Term. Princ. Isabel,509M-10,1,23713.633,6,31,8JBLWhzLzR4,2020-09-09
+Santo André (Terminal Metropolitano Santo André Oeste) / Diadema (Terminal Metropolitano Diadema),287,0,16403,10,32,Jci7hPegGok,2020-09-18
+Jd. Selma - Term. Água Espraiada,5106-21,1,24914.723,6,33,JUkljA6lSXA,2021-04-01
