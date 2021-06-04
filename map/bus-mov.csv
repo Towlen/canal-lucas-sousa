@@ -1,0 +1,165 @@
+stop,lat,long,region_id,list_index,video_index,video_date
+Parada Lisandro Torres - Estrada do M'Boi Mirim,-23.67545,-46.755457,7,363,ot4do66oLk0,2021-05-28
+Parada Leonardo de Fassio - Av. Atlântica,-23.693802,-46.714902,6,362,CPj242nhzcY,2021-05-26
+Parada Daniel Klein - Estrada do M'Boi Mirim,-23.674843,-46.748132,7,361,-DNWDaeGF7c,2021-05-19
+Parada Nicolau - Av. Atlântica,-23.688202,-46.714573,6,360,oizxI3OGvnI,2021-05-18
+Parada João de Abreu - Estrada do M'Boi Mirim,-23.669593,-46.736089,7,359,T6Qzh40MWjw,2021-05-16
+Parada Primo Tisseli - Av. Atlântica,-23.684024,-46.71441,6,357,sdLXukrLEMg,2021-05-13
+Parada Francisco Xavier da Rocha - Av. Guarapiranga,-23.6677048,-46.7305479,7,355,FWc226hUiUY,2021-05-11
+Parada João de Barros - Av. Atlântica,-23.676253,-46.712471,6,354,kkX6k4jB7UY,2021-05-07
+Parada Ptolomeu - Av. Guarapiranga,-23.666413,-46.719219,7,353,YgsWdJXUBl0,2021-05-05
+Parada Dos Inocentes - Av. Atlântica,-23.672073,-46.712195,6,351,0_1Rt2bP27c,2021-05-03
+Parada Peri Peri - Av. Guarapiranga,-23.666015,-46.714731,7,350,ybUNjnwEfkY,2021-05-01
+Parada Largo do Socorro - Av. Atlântica,-23.6673014,-46.7120676,6,349,NZqb3FZGAGc,2021-04-30
+Parada Doutor Renato Paes de Barros - Av. Nove de Julho,-23.57881,-46.67576,9,347,LRKUqzbB_0Y,2021-04-26
+Parada Moema - Av. Ibirapuera,-23.6036538,-46.6622929,9,343,ACW9Eor8DcE,2021-04-22
+Parada João Cachoeira - Av. Nove de Julho,-23.5805408,-46.6799087,9,342,e-n_DD4Gs6Y,2020-04-20
+Parada Funchal - R. Gomes de Carvalho,-23.5950568,-46.6894896,9,339,krv3G68R5mw,2021-04-17
+Parada Rio Verde - Av. General Edgar Facó,-23.490152,-46.710428,1,330,81DfqOFv0u0,2021-04-03
+Parada Divisa - Av. Cupecê,-23.68418,-46.63327,6,329,T7Lb8y_Bdak,2021-04-02
+Parada Manoel Barbosa,-23.488228,-46.713496,1,327,RyXIkA5mvQM,2021-03-30
+Parada Rudge,-23.524213,-46.649841,9,324,xJ15xT27qMs,2021-03-27
+Parada Zanella,-23.51647,-46.69843,9,322,7nbqM_0bPLw,2021-03-25
+Parada São Gabriel,-23.578215,-46.671075,9,321,_4wTqJSUzH4,2021-03-24
+Parada Marina Cintra - Av. Nove de Julho,-23.577032,-46.672463,9,313,tA2ApSQpKEM,2021-03-18
+Parada Brasil - Av. Rebouças,-23.5641326,-46.6776657,9,311,O3jwhvH4OSw,2021-03-16
+Parada Vespasiano - R. Clélia,-23.5250238,-46.6952473,9,297,s9T0FAPsbcs,2021-03-04
+Parada Dos Otonis - R. Borges Lagoa,-23.5969444,-46.645529,9,290,gA9kJ2ElWt8,2021-02-25
+Parada Edmundo Vasconcelos - R. Borges Lagoa,-23.5963365,-46.652542,9,288,jF6eof17g9w,2021-02-23
+Parada Chamantá - Av. Paes de Barros,-23.579601,-46.586779,9,285,USf_v3_U0j8,2021-02-21
+Parada Faria Lima - Av. Rebouças/Eusébio Matoso,-23.5708741,-46.6904666,9,283,lA_r1kQgrk8,2021-02-19
+Parada Oscar Freire - Av. Rebouças,-23.5603237,-46.6716483,9,282,It9geDO9vVw,2021-02-18
+Parada Oratório - Av. Paes de Barros,-23.55684,-46.600202,9,281,HKpwBAM-gYY,2021-02-17
+Parada Marechal Deodoro - Av. Vereador José Diniz,-23.640585,-46.697197,6,280,XEq9u73HDbw,2021-02-16
+Parada Granja Julieta - Av. Santo Amaro,-23.64361,-46.70093,7,279,_lS0kqN1YjM,2021-02-15
+Parada Eucaliptos - Av. Santo Amaro,-23.6043,-46.675,9,278,i6TXL58vECc,2021-02-14
+Parada Fiandeiras - Av. Santo Amaro,-23.598724,-46.673932,9,277,BhFZvw-EDA4,2021-02-14
+Parada Roque Petroni Júnior - Av. Santo Amaro,-23.6256273,-46.6868538,7,275,1jFOW6-NwTU,2021-02-13
+Parada Afonso Braz - Av. Santo Amaro,-23.5953113,-46.6731752,9,274,WDhOi30gONw,2021-02-12
+Parada Juscelino Kubitschek - Av. São Gabriel,-23.585354,-46.670722,9,273,PtHLSvu5-EU,2021-02-11
+Parada Getúlio Vargas - Av. Nove de Julho,-23.55985,-46.65469,9,272,z7Syx1wVesc,2021-02-10
+Parada 14 Bis - Av. Nove de Julho,-23.555934,-46.650112,9,271,Z81BxezruB4,2021-02-09
+Parada ETEC/FATEC/SENAI - Corredor ABD,-23.6943133,-46.5498865,11,206,qc_AJWRJf00,2020-07-14
+Parada Antártica - Shopping West Plaza,-23.5265322,-46.6735739,9,153,p5HAA-uJo5s,2019-08-15
+Parada Rui Roxo,-23.584015,-46.576407,5,149,d0DMx9PovMU,2019-05-23
+Av. Presidente Juscelino Kubitschek,-23.5854948,-46.6713098,9,345,1DRWkq9UwEI,2021-04-24
+Praça Oswaldo Zanini,-23.53166,-46.71319,9,334,Rge9TUA8sYo,2021-04-09
+R. Barbalha,-23.53565,-46.71924,9,328,i4xCkLtkx1g,2021-03-31
+Av. Queiroz Filho,-23.54166,-46.7301,9,325,vKxCuD8YGiY,2021-03-28
+Av. Yervant Kissajikian - Praça Joaniza,-23.674503,-46.662223,6,323,RqJiJVp_lrA,2021-03-26
+R. Tabapuã,-23.58336,-46.67639,9,320,Hky4mtHQtLA,2021-03-23
+Av. Arquiteto Vilanova Artigas,-23.609665,-46.501411,5,319,1RWY8_m5OXo,2021-03-22
+Av. Inconfidência Mineira,-23.575647,-46.51491,4,317,S6W_0Zdr0Og,2021-03-21
+Av. Luís Pires de Minas,-23.5936756,-46.5026794,5,315,jSbg9r8ta0I,2021-03-20
+Av. Barreira Grande,-23.585387,-46.519471,4,314,fylKmQXLARc,2021-03-19
+Praça Yara,-23.48234,-46.71730,1,312,uQcFVTCqJiU,2021-03-17
+Av. do Oratório,-23.59225,-46.54724,5,310,89pRE6aXdfo,2021-03-15
+Av. Mutinga,-23.488523,-46.730154,1,308,Xjy1oIOnLrY,2021-03-14
+Marginal Pinheiros,-23.61640,-46.69911,7,306,rNW1cGjpj00,2021-03-13
+R. Joaquim Floriano,-23.584106,-46.67304,9,305,WPli08v_-Ak,2021-03-12
+Av. Inajar de Souza,-23.4991602,-46.6856486,1,304,CNwYQttI0PM,2021-03-11
+Av. Giovanni Gronchi - Estádio do Morumbi,-23.598921,-46.720907,8,303,kfyaiOfLKnU,2021-03-10
+Praça Panamericana - Alto de Pinheiros,-23.554104,-46.708468,9,302,iAS5U3K2owk,2021-03-09
+R. Doutor José Elias - Alto da Lapa,-23.531524,-46.716004,9,301,g284sXpL8iY,2021-03-08
+Av. Morumbi,-23.6038547,-46.7122817,8,300,1Kpe4ZrXIfA,2021-03-07
+Av. Anhaia Mello,-23.582535,-46.565811,5,299,8algMvfzP2A,2021-03-06
+Av. Doutor Arnaldo,-23.5545585,-46.6701148,9,298,CSnivKx9Uhw,2021-03-05
+R. Cardeal Arcoverde,-23.559445,-46.6847946,9,296,6AhHHOaHeUQ,2021-03-03
+Av. Lins de Vasconcelos,-23.57683,-46.62370,9,295,1OaKVDt4Weg,2021-03-02
+R. John Harrison,-23.518508,-46.708547,9,294,QuMCuGCIfUY,2021-03-01
+R. Teodoro Sampaio,-23.5582901,-46.6786128,9,293,7zAzAN-exFE,2021-02-28
+Av. Lacerda Franco,-23.5756,-46.62491,9,292,mhfncDN_tfg,2021-02-27
+Largo da Batata,-23.5671656,-46.6940183,9,291,Vcex8sFDq74,2021-02-26
+R. Loefgren,-23.599687,-46.642655,9,289,9B7ig0Z66qA,2021-02-24
+Av. Rubem Berta,-23.607706,-46.652211,9,287,PhWj1PIm-98,2021-02-22
+Av. Dom Pedro I,-23.5749928,-46.610657,9,286,Yr1wsLDCkyY,2021-02-21
+Shopping Mooca Plaza,-23.5816788,-46.5925313,9,284,Axk4pADXmL4,2021-02-20
+Estação de Transferência Santo Amaro/Brooklin,-23.6261833,-46.6877436,7,276,KD_7DJ-tTf0,2021-02-13
+Av. Cupecê,-23.6814915,-46.6378503,6,270,qSbkYydnYiw,2021-02-08
+Shopping Aricanduva,-23.564679,-46.506384,4,269,ipBQHqZEvGI,2021-02-07
+Term. de Ônibus - Estação Corinthians-Itaquera,-23.54201,-46.47117,4,267,6P1dPMtmK7g,2021-02-06
+Term. de Ônibus - Estação Artur Alvim,-23.5402867,-46.4836971,3,265,Y0bnYPyA61U,2021-02-05
+Shopping Morumbi,-23.6233223,-46.6997132,7,260,XOKcpqUNfLA,2021-01-28
+Av. Faria Lima,-23.577505,-46.686513,9,257,7VSpjVR1eh8,2021-01-18
+Túnel da Av. Raimundo Pereira de Magalhães,-23.52015,-46.71160,9,256,wvXS3D_3NoM,2021-01-14
+Estação Tatuapé - Term. Norte,-23.5398,-46.576867,3,253,U3E_En6TpZw,2021-01-02
+Av. Ibirapuera,-23.595082,-46.654019,9,239,oCeLtjV60Nc,2020-11-08
+Praça IV Centenário - Santo André/SP,-23.6557831,-46.5328495,11,235,Wty1LL4UlDo,2020-10-27
+Term. Vila Luzita - Santo André/SP,-23.6992792,-46.5055353,11,234,HKKhTwVWFxo,2020-10-24
+Av. Imirim,-23.474517,-46.666279,2,232,L6R4QZmnNtw,2020-10-18
+Morro Doce,-23.447038,-46.798752,1,231,miKxyFDzo-A,2020-10-15
+Term. Piraporinha - Diadema/SP,-23.691671,-46.5849429,13,230,crgR65JNC6Q,2020-10-12
+Estação Portuguesa-Tietê,-23.5161714,-46.6249816,2,226,laBt8xKUz8M,2020-09-27
+Jabaquara,-23.64672,-46.64055,6,222,nQwdHRM41MY,2020-08-31
+Term. Diadema,-23.6841821,-46.6266338,13,221,X9ZxPcdlZEQ,2020-08-28
+Estação Parada Inglesa,-23.4868368,-46.6082988,2,221,f9ZIkL9DA44,2020-08-25
+Estação Jardim São Paulo,-23.4928369,-46.617702,2,219,dNqTSyAUcRc,2020-08-22
+Estação Vila Mariana,-23.58968,-46.63436,9,218,m9vgnUa42NQ,2020-08-19
+Estação Ana Rosa,-23.581949,-46.638442,9,217,Q8dtWYfNOzA,2020-08-16
+Av. São Miguel,-23.5216864,-46.5259483,3,215,4hA4AMX0pSA,2020-08-10
+Av. Cangaíba,-23.519192,-46.546611,3,213,r6u5G4ivyfc,2020-08-04
+Estação Praça da Árvore,-23.61069,-46.63745,9,211,1ZjgSlrpmDE,2020-07-29
+Capão Redondo,-23.65949,-46.76680,7,210,Z_lNz2G7Xf0,2020-07-26
+Term. Capelinha,-23.65539,-46.76144,7,209,hx8lXrNdkaE,2020-07-23
+Av. Paulista,-23.5602878,-46.6575309,9,207,beAo1u1xC-E,2020-07-16
+Av. Guapira,-23.480549,-46.600447,2,205,j4_-YyrC2io,2020-07-10
+Av. Vital Brasil,-23.5704403,-46.710709,8,204,_KMSCuYSvPo,2020-07-04
+São Mateus,-23.61247,-46.47589,4,203,xWiToDMK4_k,2020-07-02
+Praça Doutor Sampaio Vidal,-23.567317,-46.541184,4,202,CQOmF-FqsI4,2020-06-26
+Jardim Grimaldi,-23.598972,-46.516201,5,201,nn2GrbvwRR4,2020-06-20
+Av. Vereador José Diniz,-23.636785,-46.69352,6,200,VGh_K-kvwZ4,2020-06-20
+Jardim Ângela,-23.693101,-46.778669,7,199,BzcGe-QIUqs,2020-06-16
+Cambuci,-23.562475,-46.621212,9,198,LxRqI2L_Org,2020-06-10
+Av. 23 de Maio,-23.5728266,-46.641296,9,197,bw3bj5H5NpU,2020-06-08
+Largo São Francisco,-23.55209,-46.63780,9,196,_w2MbH4oylA,2020-06-06
+Av. Rio Das Pedras,-23.5809112,-46.4988047,4,195,7IbLx2mkprI,2020-06-04
+Vila Clementino,-23.597781,-46.649678,9,194,Ul2l_e5LZPE,2020-05-31
+Praça da República,-23.542872,-46.643455,9,193,H2QxjprGql4,2020-05-29
+Av. Aricanduva,-23.5656301,-46.50707,4,192,M1dNutm-L44,2020-05-21
+Av. Eng. Luís Carlos Berrini,-23.59748,-46.69104,7,191,7w6dwE-xxbM,2020-05-09
+Term. Ferrazópolis - São Bernardo do Campo/SP,-23.7206166,-46.5510299,11,170,QNNuaxwLLSU,2020-01-14
+Term. São Bernardo do Campo,-23.69780,-46.55222,11,169,QDglCdkif68,2020-01-10
+Cantareira Norte Shopping,-23.445447,-46.722482,2,160,09Ia_q8-_8M,2020-10-08
+Estação Jardim Planalto - Linha 15-Prata,-23.606696,-46.507702,5,159,04dms_wcEIs,2019-10-02
+Shopping Interlagos,-23.6735197,-46.6775368,6,158,O0qyEIhDE8I,2019-09-26
+Shopping Eldorado - Av. Eusébio Matoso,,9,156,ZyA6pM1tCb4,2019-09-14
+Praça Pedro Corazza,-23.51510,-46.69032,9,155,T4bU5AANALE,2019-09-02
+Shopping Anália Franco,-23.561985!4d-46.561399,4,154,fj2XSDuF7ks,2019-08-21
+Viaduto do Chá,-23.54701,-46.63717,9,152,Wtrr5Qc5nC8,2019-07-25
+Praça da Sé,-23.54921,-46.63356,9,151,DbbVL7MSUdo,2019-07-04
+Term. de Santo André/SP (Oeste),-23.65244,-46.52974,10,150,_seor-dViHs,2019-06-28
+Av. Professor Francisco Morato,-23.58645,-46.72399,8,148,MqdGTcils_w,2019-05-11
+Av. Conselheiro Carrão,-23.548645,-46.537346,4,147,2vr3nedSdCk,2019-05-05
+Av. Guilherme Cotching,-23.51295,-46.58547,2,146,E_V_0IwFZqg,2019-04-27
+Av. Nazaré,-23.60206,-46.60944,9,145,3gX3V5eWTx8,2019-04-25
+Av. Goiás - São Caetano do Sul/SP,-23.6164858,-46.5687227,12,140,hiMCN-r95YU,2019-05-11
+Term. de Santo André/SP (Leste),-23.65109,-46.52643,10,137,zy3PtGVgTXk,2019-04-03
+Term. Municipal de Mauá/SP,-23.6692154,-46.4595,14,135,4YDw1KFo89c,2019-03-30
+Estação Guaianazes - Term. Norte,-23.54171,-46.41689,4,132,4uw7jQ9OCXA,2019-03-22
+Estação São Caetano do Sul/SP,-23.61051,-46.5703,12,131,urMX4pY9OU8,2019-03-18
+Av. Senador Queirós,-23.53932,-46.63403,9,129,oOsQ8vJCVp8,2019-03-14
+Estação Guaianazes - Term. Sul,-23.54291,-46.41603,3,128,-KrKWhd40AY,2019-03-10
+Estação Tatuapé - Term. Sul,-23.5411306,-46.576691,3,107,8BulJTlGJrY,2018-11-24
+Metrô Conceição,-23.63483,-46.64103,6,99,d4Y5BbGPGIU,2018-07-29
+Largo da Batata,-23.56734,-46.69376,9,98,KKqEul40u-g,2018-07-17
+Av. Rangel Pestana/Bitencourt Rodrigues,-23.54977,-46.63078,9,95,qJ54Y3PsD-E,2020-02-25
+Jabaquara (Metra),-23.64749,-46.64016,6,94,a4bAHcmleMo,2018-02-08
+Parque do Ibirapuera,-23.581103,-46.656564,9,93,F6HCEKGQNqY,2018-01-16
+Estação Paulista,-23.55557,-46.66280,9,92,UE0FUTynfRU,2018-01-14
+Av. Vereador José Diniz,-23.63441,-46.69118,6,91,0iHtpnipIfM,2018-01-11
+Estação Paraíso,-23.5758652,-46.6414783,9,90,rJiWYuBzM94,2018-01-09
+Shopping Center Norte,-23.514248,-46.616021,2,89,ggZTazJrInQ,2018-01-02
+R. Boa Vista,-23.5486417,-46.6330627,9,88,bSdOjrS3an8,2017-12-31
+Praça do Correio,,9,85,sed5gF7bBUk,2017-12-24
+
+Corredor Vereador José Diniz,,7,11,F3CxnuAKzW0,2015-02-10
+Av. Brigadeiro/Paulista,-23.56756,-46.64888,9,10,9yLlfirO9rE,2015-08-02
+Jardim Celeste,-23.66182,-46.61821,5,9,M8HyE-9ZDLQ,2015-07-28
+Av. Sapopemba,-23.61494,-46.50153,5,8,URjIJaFYaGQ,2015-07-26
+Term. Campo Limpo,-23.63181,-46.77193,8,9,_3rY6TRlEnY,2015-07-24
+Linha 5110 no Horário de Pico,,5,6,Y3eguL--MO8,2015-06-09
+Garagem da Ambiental Transportes,-23.55355,-46.55805,4,5,NkKK3v7Fic0,2015-05-28
+Garagem da Metra,-23.69353,-46.57281,11,4,vjSkviYrVzE,2015-05-24
+Term. Bandeira,-23.549333,-46.640016,9,3,dbLu3kOgdxQ,2015-05-03
+Av. Ibirapuera,-23.6092489,-46.6675372,9,2,UJsCeVEoGvI,2015-02-03
+Term. São Mateus,-23.61370,-46.47637,5,1,DR1mAQ10F6k,2015-01-15
