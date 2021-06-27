@@ -1,0 +1,26 @@
+{
+	"system": [
+	{
+		"name" : "SPTrans",
+		"fullname": "São Paulo Transporte",
+		"url" : "https://www.sptrans.com.br",
+		"opendata" : "https://www.sptrans.com.br/desenvolvedores/",
+		"datatype" : "bus"
+	},
+	{
+		"name" : "EMTU",
+		"fullname" : "Empresa Metropolitana de Transportes Urbanos de São Paulo",
+		"url" : "https://www.emtu.sp.gov.br",
+		"opendata" : "https://www.emtu.sp.gov.br/emtu/dados-abertos/dados-abertos-principal/gtfs.fss",
+		"datatype" : "bus"
+	},
+	{
+		"name" : "CRTM",
+		"fullname" : "Consorcio Regional de Transportes de Madrid",
+		"url" : "https://www.crtm.es/",
+		"opendata" : "https://data-crtm.opendata.arcgis.com/",
+		"datatype" : "Metro",
+		"license" : "https://www.crtm.es/licencia-de-uso"
+	}
+	]
+}
