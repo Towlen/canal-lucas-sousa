@@ -1,0 +1,52 @@
+{
+	"property" : {
+		"channel" : {
+			"name" : "Lucas Sousa",
+			"url" : "https://www.youtube.com/user/Lucas008000"
+		},
+		"bus_direction" : [
+			"ida",
+        	"volta",
+        	"circular",
+        	"ida: ida/volta",
+        	"volta: ida/volta"
+		]
+	},
+	"layers" : [
+		{
+			"name" : "Movimentação de Ônibus",
+			"mapnames" : "bus-mov",
+			"geometries" : {"type" : "point", "icon-id" : 1250, "folder" : null}
+		},
+		{
+			"name" : "Linhas de Ônibus",
+			"mapnames" : "bus-lines",
+			"geometries" : {"type" : "route", "route-width" : 1.7, "route-color" : "regions", "folder" : "buslines"}
+		},
+		{
+			"name" : "Eu Fui Conferir",
+			"mapnames" : "conferences",
+			"geometries" : {"type" : "point", "icon-id" : 1620, "folder" : null}
+		},
+		{
+			"name" : "Terminais de Ônibus",
+			"mapnames" : ["bus-terms","bus-st"],
+			"geometries" : {"type" : "point", "icon-id": 389, 
+				"series" : {"bus-terms" : "Terminais de Ônibus", "bus-st" : "Rodoviárias"}
+			}
+		},
+		{
+			"name" : "# Mix Lucas Sousa Séries",
+			"mapnames" : ["bus-curves", "comp-routes", "flying", "train-mov"],
+			"geometries" : {"type": ["route", "icon"], "icon-id" : 1250, "route-width" : [1.5, 1, 2, 1.3, null], 
+				"series" : {
+					"bus-curves" : "Curvas Fechadas",
+					"comp-routes" : "Comparando rotas",
+					"flying-sp" : "Sobrevoando SP",
+					"train-mov" : "Movimentação de trens"}
+			}
+		}
+	],
+	"regions" : [
+	]
+}
